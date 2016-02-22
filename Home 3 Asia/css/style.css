@@ -1,0 +1,113 @@
+*{
+  margin:  0;
+  padding: 0;
+}
+body{
+  background: url(../img/background.jpg);
+  background-size: 100%;
+}
+.wraper{
+  position: relative;
+  height: 800px;
+  width: 820px;
+  opacity: 100%;
+  margin: auto;
+}
+
+.header{
+margin: auto;
+height: 150px;
+width: 820px;
+
+}
+.contact{
+  position: absolute;
+  top: 100px;
+  left: 700px;
+  height: 37px;
+  width: 90px;
+
+}
+p{
+  font-size: 8px;
+  color: white;
+}
+.content{
+  position: absolute;
+  top: 150px;
+  height: 450px;
+  width: 820px;
+}
+#in{
+height: 182px;
+width: 262px;
+padding-right: 13px;
+
+}
+#intxt{
+  position: absolute;
+  left: 120px;
+  top: 181px;
+  font-size: 12px;
+}
+#ne{
+height: 182px;
+width: 262px;
+padding-right: 13px;
+}
+#netxt{
+  position: absolute;;
+  left: 402px;
+  top: 182px;
+  font-size: 12px;
+}
+#ti{
+height: 182px;
+width: 262px;
+}
+#titxt{
+position: absolute;
+top: 182px;
+left: 683px;
+font-size: 12px;
+}
+#bu{
+  height: 182px;
+  width: 262px;
+  padding-right: 13px;
+  padding-top: 50px;
+}
+#butxt{
+  position: absolute;
+  top: 416px;
+  left: 120px;
+  font-size: 12px;
+}
+#sl{
+  height: 182px;
+  width: 262px;
+  padding-right: 13px;
+  padding-top: 50px;
+}
+#sltxt{
+  position: absolute;
+  top: 416px;
+  left: 392px;
+  font-size: 12px;
+}
+#ma{
+  height: 182px;
+  width: 262px
+  padding-top: 50px;
+  }
+  #matxt{
+    position: absolute;
+    top: 416px;
+    left: 678px;
+    font-size: 12px;
+  }
+.footer{
+  position: absolute;
+  top: 770px;
+  left: 365px;
+}
